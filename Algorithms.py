@@ -41,10 +41,6 @@ def vowel_count_recursive_variable(inpString, count):
     
     return count
 
-# print(vowel_count(testString))
-# print(vowel_count_recursive(testString))
-
-
 import math
 # Q = Square root of [(2 * C * D)/H]
 
