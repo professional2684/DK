@@ -1,3 +1,4 @@
+# Declaring the vowels
 vowels = 'aeiou'
 
 testString = 'the'
